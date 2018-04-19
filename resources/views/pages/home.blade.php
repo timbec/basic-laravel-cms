@@ -18,7 +18,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                     This is the Home Page
+                     Welcome
                 </div>
 
                 <div class="links">
